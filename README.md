@@ -1,2 +1,5 @@
 # NLW5-Node.JS
-# Trilha node.js na Plataforma Rocketseat. 
+
+## Plataforma Rocketseat. 
+
+*Construção de uma aplicação para um chat, utilizando o Node.js, typescript, o microframework express entre outros pacotes e bibliotecas.
